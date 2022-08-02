@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Procedural First Person Animation System",
+	"Description": "Create custom animations by using the designed component and curves.",
+	"Category": "Gerlogu",
+	"CreatedBy": "Gerlogu",
+	"CreatedByURL": "https://gerlogu.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/profile/Gerlogu",
+	"SupportURL": "mailto:contact@gerlogu.com",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ProceduralFirstPersonAnimationSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

@@ -1,0 +1,2 @@
+D:\Developer\UE4\Nueva carpeta (5)\ShooterUE\Plugins\ProceduralFirstPersonAnimationSystem\Intermediate\Build\Win64\UE4Editor\Development\ProceduralFirstPersonAnimationSystem\Definitions.ProceduralFirstPersonAnimationSystem.h
+D:\Developer\UE4\Nueva carpeta (5)\ShooterUE\Plugins\ProceduralFirstPersonAnimationSystem\Source\ProceduralFirstPersonAnimationSystem\Public\ProceduralFirstPersonAnimationSystem.h
