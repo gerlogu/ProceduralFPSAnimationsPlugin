@@ -50,6 +50,8 @@ No enemy nor Fire events like bullet spawning are included.
 
 **Number of Blueprints:** 1
 
+**Number of Components:** 1
+
 **Number of Scripts:** 5
 
 **Input:**
