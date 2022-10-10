@@ -1,4 +1,4 @@
-# ProceduralFPSAnimationsPlugin
+# Procedural FPS Animations Plugin
 ![Version](https://img.shields.io/badge/Version-1.0.1-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)</br>
 Plugin for Unreal Engine 4/5 👁‍🗨 Add procedural animations to your FPS by using Curves 🔫
 
