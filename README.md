@@ -14,8 +14,6 @@ Plugin for Unreal Engine 4/5 👁‍🗨 Add procedural animations to your FPS b
 
 ### 📚 Overview
 
-This Custom Console includes several Tasks and Functions that allow you to create your own commands. If you need help in order to include the project assets into your own project, read the [User's Manual](https://gerlogu.com/wp-content/uploads/2022/04/Custom-In-Game-Console-Users-Manual.pdf).
-
 This tool allows you to create several animations for a First Person Shooter by editing Unreal Engine Curves. It also includes data based weapon sway. If you need more help to include this plugin to your project, you can contact me at contact@gerlogu.com.
 
 ### 📣 Content
