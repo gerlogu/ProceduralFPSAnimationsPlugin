@@ -6,6 +6,8 @@ Plugin for Unreal Engine 4/5 👁‍🗨 Add procedural animations to your FPS b
 
 ![ProceduralFPSAnimations](https://user-images.githubusercontent.com/55363746/223794737-85802775-eba0-4977-abac-180c51101902.png)
 
+> ##### If you find the asset useful, please support it by giving a "★ Star" to the repository, thank you!
+
 ## Description
 ***Latest Update:*** _September 10th, 2022_
 
